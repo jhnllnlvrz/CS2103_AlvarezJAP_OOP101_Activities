@@ -77,7 +77,7 @@ class Canteen {
             System.out.printf("Total before discount: $%.2f%n", totalAmount);
             System.out.printf("Total discount: $%.2f%n", totalDeduction);
             System.out.printf("Final amount: $%.2f%n", finalAmount);
-            System.out.println("Thank you for ordering");
+            System.out.println("Thank you for ordering!");
 
             scanner.close();
 
