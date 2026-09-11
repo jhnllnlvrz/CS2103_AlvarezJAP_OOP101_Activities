@@ -71,6 +71,7 @@ class Canteen {
             //compute final amount
             double finalAmount = totalAmount - totalDeduction;
 
+            System.out.println();
             System.out.println("==== ORDER SUMMARY ====");
             System.out.println("Total items: " + totalQuantity);
             System.out.printf("Total before discount: $%.2f%n", totalAmount);
