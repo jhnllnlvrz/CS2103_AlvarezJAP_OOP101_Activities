@@ -11,11 +11,11 @@ class Canteen {
         double totalDeduction = 0.0;
 
         System.out.println("=====  M E N U  =====");
-        System.out.println("1. Chiken Pastil    - $80.00");
-        System.out.println("2. Shawarma         - $120.00");
-        System.out.println("3. Burrito          - $100.00");
-        System.out.println("4. Pizzawrap        - $70.00");
-        System.out.println("5. Matcha           - $90.00");
+        System.out.println("1. Chicken Pastil    - $80.00");
+        System.out.println("2. Shawarma          - $120.00");
+        System.out.println("3. Burrito           - $100.00");
+        System.out.println("4. Pizzawrap         - $70.00");
+        System.out.println("5. Matcha            - $90.00");
         System.out.println();
 
         char orderAgain = 'Y';
